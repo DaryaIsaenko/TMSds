@@ -1,0 +1,6 @@
+{
+    "telegram_creds_file": "telegram_creds.json",
+    "database_creds_file": "database_creds.json",
+    "audio_model_path": "models\\emotion_audio_model.keras",
+    "text_model_path": "models\\text_emotion_model"
+}
